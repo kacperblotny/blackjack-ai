@@ -1,0 +1,47 @@
+H S 
+H S 
+S 
+S 
+H H H 
+S 
+H 
+S 
+H 
+S 
+H 
+S 
+H H S 
+H 
+S 
+H 
+S 
+H H H S 
+H 
+H S 
+H 
+S 
+H 
+H S 
+H S 
+H S 
+H 
+S 
+H 
+H 
+H S 
+S 
+H S 
+H 
+H 
+S 
+H H S 
+H S 
+H 
+S 
+H 
+S 
+H 
+H 
+S 
+H 
+S 
