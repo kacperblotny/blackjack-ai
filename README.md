@@ -1,3 +1,3 @@
-BlackJack AI project
+BlackJack AI
 
-AI blackjack project for university
+Machine learning - blackjack game that is played by my ai model
